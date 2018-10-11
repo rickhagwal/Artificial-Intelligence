@@ -1,2 +1,4 @@
 # Artificial-Intelligence
-Related to solving problems using serach techniques in artificial intelligence
+Related to solving 8 Puzzle using A* search in artificial intelligence
+
+
