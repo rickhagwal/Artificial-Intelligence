@@ -1,4 +1,4 @@
 # Artificial-Intelligence
-Related to solving game problems using search techniques in artificial intelligence
+Related to solving popular problems in artificial intelligence using search techniques in Python:
 
 1.) 8 Puzzle using A* search
