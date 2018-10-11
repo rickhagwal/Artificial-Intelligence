@@ -1,5 +1,8 @@
 # Artificial-Intelligence
 Related to solving popular problems in artificial intelligence using search techniques in Python:
 
-1.) 8 Puzzle using A* search (inside branch rickhagwal-Eight-puzzle)
-2.) 8 Puzzle using Breadth First Search(BFS) and Iterative Deepening Depth First Search(IDS)
+I.) 8 Puzzle (inside branch :: rickhagwal-Eight-puzzle) using:
+    1.) A* search 
+      a.) Misplaced Tile heuristic 
+      b.) Manhattan Distance heuristic
+    2.) Breadth First Search(BFS) and Iterative Deepening Depth First Search(IDS)
