@@ -1,7 +1,7 @@
 # Artificial-Intelligence
 Related to solving popular problems in artificial intelligence using search techniques in Python:
 
-I.) 8 Puzzle (inside branch :: rickhagwal-Eight-puzzle) using:\n
+I.) 8 Puzzle (inside branch :: rickhagwal-Eight-puzzle) using:
     1.) A* search 
       a.) Misplaced Tile heuristic 
       b.) Manhattan Distance heuristic
