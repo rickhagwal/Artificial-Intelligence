@@ -6,3 +6,5 @@ I.) 8 Puzzle (inside branch :: rickhagwal-Eight-puzzle) using:
       a.) Misplaced Tile heuristic 
       b.) Manhattan Distance heuristic
     2.) Breadth First Search(BFS) and Iterative Deepening Depth First Search(IDS)
+    
+II.) n Queens Problem using Recursive Backtracking
