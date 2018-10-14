@@ -1,5 +1,5 @@
 # Artificial-Intelligence
-Related to solving popular problems in artificial intelligence using search techniques in Python:
+Related to solving popular problems in artificial intelligence(Python code) using search techniques in Python:
 
 I.) 8 Puzzle (inside branch :: rickhagwal-Eight-puzzle) using:
     1.) A* search 
